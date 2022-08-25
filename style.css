@@ -6,7 +6,7 @@ h3
 {
     background-color: orangered;
 }
-canvas 
+#canvas 
 {
     animation-name: example;
     animation-duration: 4s;
